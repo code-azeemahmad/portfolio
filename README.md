@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Azeem Ahmad** — Full Stack Developer and Competitive Programmer. A modern, single-page site built with Next.js, featuring smooth animations, an interactive background, and sections for skills, projects, and contact.
 
-**Live Site:** Deploy on [Vercel](https://vercel.com) — add your production URL here after deployment.
+**Live Site:** Deploy on [Vercel](https://code-azeem-portfolio.vercel.app/) — add your production URL here after deployment.
 
 ## Features
 
